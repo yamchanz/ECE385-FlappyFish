@@ -1,2 +1,2 @@
 # ECE385-FlappyFish
-![FlappyFish pic](/desktop/flappy.PNG)
+![FlappyFish pic](https://github.com/yamchanz/ECE385-FlappyFish/tree/main/misc/flappy.PNG?raw=true)
