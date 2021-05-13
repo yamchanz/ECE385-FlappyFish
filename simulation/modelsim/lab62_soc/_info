@@ -1,0 +1,1198 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nyl20/Desktop/FlappyBird/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1620358910
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+IkR78g[B`ChJ68]QU;jQ621
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1618964999
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1620358909.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z6 o-vlog01compat -work lab62_soc
+Z7 !s92 -vlog01compat -work lab62_soc +incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules
+Z8 tCvgOpt 0
+valtera_reset_controller
+Z9 !s110 1620358907
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+IGLAzffFH[[zDVQdmF3>960
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_controller.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z10 !s108 1620358907.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R6
+R7
+R8
+valtera_reset_synchronizer
+R9
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I=d`Wn`k]9dH17=9@>7^IH1
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v
+L0 24
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc
+R9
+!i10b 1
+!s100 ]D;EcbYOG]HhScI<HHghj2
+IjhDfXzPFBcjU8F6iSC3C11
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/lab62_soc.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/lab62_soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/lab62_soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/lab62_soc.v|
+!i113 1
+R6
+!s92 -vlog01compat -work lab62_soc +incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis
+R8
+vlab62_soc_hex_digits_pio
+!s110 1620358916
+!i10b 1
+!s100 ?`04Bhh3>CA4@>In<?0AN3
+IWW>Z1RG`D4;g<PjNoKHA;2
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1620358915.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_jtag_uart
+Z12 !s110 1620358915
+!i10b 1
+!s100 afAaLV`7E]DAH]T@JdYaS3
+IUZmB>6MbHnJI713;YO=LM1
+R2
+R0
+R3
+Z13 8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v
+Z14 FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v
+L0 331
+R5
+r1
+!s85 0
+31
+R11
+Z15 !s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v|
+Z16 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_jtag_uart_scfifo_r
+R12
+!i10b 1
+!s100 00YFlf=RhJf]G_I4:XAe52
+IhF^]ZaA2T^4nE;aX<kKUi3
+R2
+R0
+R3
+R13
+R14
+L0 243
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 1
+R6
+R7
+R8
+vlab62_soc_jtag_uart_scfifo_w
+R12
+!i10b 1
+!s100 54OQ[m]aM]WZM4l<z>RXZ2
+IOENEo7aa_N48aEX>_lJ=h2
+R2
+R0
+R3
+R13
+R14
+L0 78
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 1
+R6
+R7
+R8
+vlab62_soc_jtag_uart_sim_scfifo_r
+R12
+!i10b 1
+!s100 HcM2509b=8hZd14oK3IGX2
+IGfIca9MiJnGOz_04KFJc@3
+R2
+R0
+R3
+R13
+R14
+L0 164
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 1
+R6
+R7
+R8
+vlab62_soc_jtag_uart_sim_scfifo_w
+R12
+!i10b 1
+!s100 iSb0`eL8T;B05zZF?4[UW2
+IbNCmjEnJM_nIagd1HWc1H2
+R2
+R0
+R3
+R13
+R14
+R4
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 1
+R6
+R7
+R8
+vlab62_soc_key_0
+R12
+!i10b 1
+!s100 B[OzniDAO3nE8D0;9J]jD2
+IhaFTX@2ETEE`899kLWR>[2
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_key_0.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_key_0.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_key_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_key_0.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_keycode
+R12
+!i10b 1
+!s100 Tc`<h:;k_<[fi3WbIU8`n2
+IJ88J2PY485MAkSVBnjajE1
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_keycode.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_keycode.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_keycode.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_leds_pio
+R12
+!i10b 1
+!s100 I^^F?[S44MGZ5kgdHi0QA1
+InHaUkCA=lSi2hmek8UZlG1
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_mm_interconnect_0
+Z17 !s110 1620358908
+!i10b 1
+!s100 WFI`:azhG0I70j7lD8Bna1
+I0jC;<B]0CYHOTYmE]^EK?3
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_mm_interconnect_0_avalon_st_adapter
+R17
+!i10b 1
+!s100 6nomGWUAM0j`lJVg6SV<o3
+I`VH:i0lK]lXb`jZa:H_iF0
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+Z18 !s108 1620358908.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_mm_interconnect_0_avalon_st_adapter_005
+R17
+!i10b 1
+!s100 aIW^]G^V6;W?A1;4=T8P22
+IjPTR:H1OOUommJHbO2caj2
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v
+L0 9
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0
+Z19 !s110 1620358913
+!i10b 1
+!s100 @X>N:3277U`7WVA3ZJkif1
+IKg7mb]dKTa]<kjAH47_kz0
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+Z20 !s108 1620358913.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu
+Z21 !s110 1620358914
+!i10b 1
+!s100 FH<_dMRN4bQTD[?Vb6^Kn1
+IGX@WD6E4^WZjU7l]0?W[:1
+R2
+R0
+R3
+Z22 8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v
+Z23 FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+R20
+Z24 !s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v|
+Z25 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk
+R21
+!i10b 1
+!s100 jCF>n:UMiAfL;;:^j6[OB3
+I825OeC;^9VI9lzNPMkkb]3
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+Z26 !s108 1620358914.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_debug_slave_tck
+R21
+!i10b 1
+!s100 `BcC:B`YVjd[bcKe4Wo;@3
+IVTUgoLDVRGTH>H5WbjC@f0
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper
+R21
+!i10b 1
+!s100 A6V4`;@MUSlTVbeZm>3Kh1
+IQM0dmcL<li@JoDNR?JPlX0
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_avalon_reg
+R21
+!i10b 1
+!s100 a9_QcTM8d[VNafVB0kao50
+I5`S8RkhWXASD7CEGN<MG00
+R2
+R0
+R3
+R22
+R23
+L0 2023
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci
+R21
+!i10b 1
+!s100 ;A>08_5]:_8j9JkjO7:0]1
+I047MmdVS^dZMI21_;G_0O3
+R2
+R0
+R3
+R22
+R23
+L0 2362
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_break
+R19
+!i10b 1
+!s100 S4HnVeQDgNK<3nZQd8neW2
+I0ZRjBS5DVm5O>l2JS:1Tg3
+R2
+R0
+R3
+R22
+R23
+L0 295
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R19
+!i10b 1
+!s100 l1VhgKz2`A1?@3Lf6zTEP3
+IHW==I^Y6cVCgcA<6hD@5m3
+R2
+R0
+R3
+R22
+R23
+L0 1265
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_dbrk
+R19
+!i10b 1
+!s100 C7bo:iMRco26WF?fU4Om^1
+I0bVBEze8Z0VR^oEoez>Og0
+R2
+R0
+R3
+R22
+R23
+L0 795
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_debug
+R19
+!i10b 1
+!s100 c2RbW?L:f2D8c3B2J3DFj0
+IX8f`>[A[8R^36ELkgjhSc3
+R2
+R0
+R3
+R22
+R23
+L0 153
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_dtrace
+R19
+!i10b 1
+!s100 W85dCYE]^QKOQYlc;z5G_1
+Ial>E>e;5ol0X<b7`@h`0Z2
+R2
+R0
+R3
+R22
+R23
+L0 1183
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_fifo
+R19
+!i10b 1
+!s100 iHzPVi:0gJ>T^7S2VmBC92
+IPe8_S7k?nXUEz8bb8KZU_3
+R2
+R0
+R3
+R22
+R23
+L0 1427
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R19
+!i10b 1
+!s100 dg?AO7MeG5mP23MdMSJb41
+I41eD[Zm4bzF9EgbN573jQ0
+R2
+R0
+R3
+R22
+R23
+L0 1380
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R19
+!i10b 1
+!s100 gKU;1`H34dQRWHbk^BoNb1
+I>HF@7MDdm=9GlGGfJmKcR1
+R2
+R0
+R3
+R22
+R23
+L0 1337
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_im
+R21
+!i10b 1
+!s100 OJ[5BDo>kjbXFijI]38ET1
+I[[FN<Q9NIPkH?PQ8TPGjl1
+R2
+R0
+R3
+R22
+R23
+L0 1936
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_itrace
+R19
+!i10b 1
+!s100 VY<TeiR2FLH1@G?5XJ8b_1
+IbHL5ClISGO2@]JCAbk8kg2
+R2
+R0
+R3
+R22
+R23
+L0 982
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_pib
+R21
+!i10b 1
+!s100 laD^Z5d5_HO>L;H5z4RCA3
+IDi70>Rh05RE3ozZj5L>VU1
+R2
+R0
+R3
+R22
+R23
+L0 1913
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_td_mode
+R19
+!i10b 1
+!s100 71gTDzL1Ho336cO7;]Nj53
+IXK;CXfB07`<LGDXR6:TEg2
+R2
+R0
+R3
+R22
+R23
+L0 1115
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_xbrk
+R19
+!i10b 1
+!s100 8Z2OL?H11iECPfXc8zEdJ1
+IZY;>^EcRdDm3iV_1P`iGT1
+R2
+R0
+R3
+R22
+R23
+L0 588
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_ocimem
+R21
+!i10b 1
+!s100 Ng1]_[8;SA@cAl<1^mCde3
+I`1;oK<ZXWDl0`Y4F?Bj7I3
+R2
+R0
+R3
+R22
+R23
+L0 2181
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_nios2_performance_monitors
+R21
+!i10b 1
+!s100 89b[mDK;Z7zO[i]f]U?6`1
+I1L`=lX6@`zlE]eI?CbRLP3
+R2
+R0
+R3
+R22
+R23
+L0 2006
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_ociram_sp_ram_module
+R21
+!i10b 1
+!s100 Fd?l^U;7G:PS[SgY]_SGQ2
+I1;O5fNcVn>]z`YMY6k9ZH3
+R2
+R0
+R3
+R22
+R23
+L0 2116
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_register_bank_a_module
+R19
+!i10b 1
+!s100 KHo?h?QR_KFSL9Hc:E8>n2
+I0LEj_BTOCd_>HSPaM[ANm0
+R2
+R0
+R3
+R22
+R23
+R4
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_register_bank_b_module
+R19
+!i10b 1
+!s100 A<bS5JNB`3mo;jcC_5^UC1
+I8HBOLRH^RhH2DX3FOmRjg1
+R2
+R0
+R3
+R22
+R23
+L0 87
+R5
+r1
+!s85 0
+31
+R20
+R24
+R25
+!i113 1
+R6
+R7
+R8
+vlab62_soc_nios2_gen2_0_cpu_test_bench
+R21
+!i10b 1
+!s100 YbM>Hj>a<_B>@]RhaNU933
+IAfohTXC?_d_LjN]h4:LSU2
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_onchip_memory2_0
+R19
+!i10b 1
+!s100 eOSzk@P>bWnf_dj[9Md?A2
+IJLHTdP_hT[Zz81ZkM[L3J1
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_onchip_memory2_0.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_onchip_memory2_0.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sdram
+R19
+!i10b 1
+!s100 dAjTS]FmK^3eRFMfM<ZLM0
+I_Bn3Bh9>?i7e>_O[Rm5`T1
+R2
+R0
+R3
+Z27 8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram.v
+Z28 FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+R20
+Z29 !s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram.v|
+Z30 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sdram_input_efifo_module
+R19
+!i10b 1
+!s100 _03kZT[J1BVcnVdGiEGo42
+IARgoo;UozL<TP=8gKVAcB2
+R2
+R0
+R3
+R27
+R28
+R4
+R5
+r1
+!s85 0
+31
+R20
+R29
+R30
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sdram_pll
+Z31 !s110 1620358911
+!i10b 1
+!s100 47MbJ5cld938d4SdK4;@F2
+I5P_bRXgPM61eW0IUNhlVY3
+R2
+R0
+R3
+Z32 8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v
+Z33 FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+Z34 !s108 1620358911.000000
+Z35 !s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v|
+Z36 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sdram_pll_altpll_vg92
+R31
+!i10b 1
+!s100 iiSG05Ch33]aVaShnC8OQ2
+I27jPTC[km3jUh5kJVSLZM2
+R2
+R0
+R3
+R32
+R33
+L0 130
+R5
+r1
+!s85 0
+31
+R34
+R35
+R36
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sdram_pll_dffpipe_l2c
+R31
+!i10b 1
+!s100 ]AgAX_;f;Bjl64JGM[7?f3
+IPFABWMf0]RccW5ORQahbg0
+R2
+R0
+R3
+R32
+R33
+L0 37
+R5
+r1
+!s85 0
+31
+R34
+R35
+R36
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sdram_pll_stdsync_sv6
+R31
+!i10b 1
+!s100 H?UzKL`=<aoE0Ga16D?U;3
+ITTlM[QJ0h>nS_oQ17;WYI3
+R2
+R0
+R3
+R32
+R33
+L0 98
+R5
+r1
+!s85 0
+31
+R34
+R35
+R36
+!i113 1
+R6
+R7
+R8
+vlab62_soc_spi_0
+R1
+!i10b 1
+!s100 QL=gE`gZH9NP2PFNSJkMI0
+I=:BR_g0mkZizC@GAeRL[@3
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_spi_0.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_spi_0.v
+L0 41
+R5
+r1
+!s85 0
+31
+Z37 !s108 1620358910.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_spi_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_spi_0.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_sysid_qsys_0
+R1
+!i10b 1
+!s100 aJQG:DLzj[SOE8TUMIE<b2
+I=cC:af_n?ek9Bf8Hb[3Pa0
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v
+L0 34
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_timer
+R1
+!i10b 1
+!s100 U[;QlkFZ>CcoUe9LigUPX2
+IM5S6W1_7^=MjYkX:DY[0;2
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_timer.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_timer.v
+R4
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_timer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_timer.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_usb_gpx
+R1
+!i10b 1
+!s100 GULeeJo[_X`=QGkJ1bdHB0
+I2_M@3S@Yl>S5Yz1fmXcC71
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v
+R4
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v|
+!i113 1
+R6
+R7
+R8
+vlab62_soc_usb_rst
+R1
+!i10b 1
+!s100 eJCCQH4Bd34M<T@n9YJ2^1
+IDNd;3h_Vo6Qa00f;6OIGh3
+R2
+R0
+R3
+8C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v
+FC:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v
+R4
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules|C:/Users/nyl20/Desktop/FlappyBird/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v|
+!i113 1
+R6
+R7
+R8

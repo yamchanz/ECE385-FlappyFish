@@ -1,0 +1,86 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nyl20/Desktop/FlappyBird/simulation/modelsim
+vcolor_mapper
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1620359983
+!i10b 1
+!s100 cM97;dM20]<9^o67zTCJg3
+I]Z1Hl5NZFA2?oo16IXeI02
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 color_mapper_sv_unit
+S1
+R0
+w1620359930
+8C:/Users/nyl20/Desktop/FlappyBird/color_mapper.sv
+FC:/Users/nyl20/Desktop/FlappyBird/color_mapper.sv
+L0 16
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1620359983.000000
+!s107 C:/Users/nyl20/Desktop/FlappyBird/color_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/nyl20/Desktop/FlappyBird|C:/Users/nyl20/Desktop/FlappyBird/color_mapper.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/Users/nyl20/Desktop/FlappyBird
+Z8 tCvgOpt 0
+vframeRAM
+R1
+R2
+!i10b 1
+!s100 RP?3hgbjPkD=5kMZ@m^jZ0
+IDUc;7i>zZWdb5k^JUB8QR1
+R3
+!s105 frameRAM_sv_unit
+S1
+R0
+w1620357258
+8C:/Users/nyl20/Desktop/FlappyBird/frameRAM.sv
+FC:/Users/nyl20/Desktop/FlappyBird/frameRAM.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/nyl20/Desktop/FlappyBird/frameRAM.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/nyl20/Desktop/FlappyBird|C:/Users/nyl20/Desktop/FlappyBird/frameRAM.sv|
+!i113 1
+R6
+R7
+R8
+nframe@r@a@m
+vtestbench
+R1
+R2
+!i10b 1
+!s100 zedjn;YTfC33E4AYz`:7h0
+ISoHP4:iL3N333o=_A3D6Q2
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1620359319
+8C:/Users/nyl20/Desktop/FlappyBird/testbench.sv
+FC:/Users/nyl20/Desktop/FlappyBird/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/nyl20/Desktop/FlappyBird/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/nyl20/Desktop/FlappyBird|C:/Users/nyl20/Desktop/FlappyBird/testbench.sv|
+!i113 1
+R6
+R7
+R8
